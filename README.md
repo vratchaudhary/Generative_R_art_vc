@@ -1,1 +1,3 @@
-# Generative_R_art_vc
+# Generative art built usin R code
+
+Using data to create beautiful digital art
